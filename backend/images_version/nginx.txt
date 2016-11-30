@@ -1,0 +1,16 @@
+1.11.6
+mainline
+1
+1.11
+latest
+1.11.6-alpine
+mainline-alpine
+1-alpine
+1.11-alpine
+alpine
+1.10.2
+stable
+1.10
+1.10.2-alpine
+stable-alpine
+1.10-alpine

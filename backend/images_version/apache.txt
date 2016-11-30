@@ -1,0 +1,12 @@
+2.2.31
+2.2
+2.2.31-alpine
+2.2-alpine
+2.4.23
+2.4
+2
+latest 
+2.4.23-alpine
+2.4-alpine
+2-alpine
+alpine 
